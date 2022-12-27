@@ -1,15 +1,16 @@
 
+文档地址:  https://github.com/assetcloud/AssetChain/wiki
+
+
+文档包括
  * 开发相关文档, 介绍区块链模块内部实现原理
  * 节点部署和使用相关
  * 合约开发相关
  * 区块链接口相关
 
 
-## 现有文档
+## 现有文档目录
 
-代码仓库
-
-git@github.com:assetcloud/AssetChain.wiki.git
 
 ```
 安装部署-部署调用EVM合约.md
@@ -38,6 +39,3 @@ git@github.com:assetcloud/AssetChain.wiki.git
 资产链接口和使用说明.md
 ```
 
-## 文档存放位置
-
-是否有统一移到 https://github.com/Orginone/docs 
