@@ -75,7 +75,7 @@ Orginone主要聚焦以下四个方面能力的集成：
 
 # **第二部分 奥集能平台**
 
-<img src="./image/平台logo.png" style="zoom: 40%;">
+<img src="./image/logo.png" style="zoom: 40%;">
 
 ## **第3章 奥集能平台业务**
 
